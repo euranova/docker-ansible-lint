@@ -1,4 +1,4 @@
-FROM williamyeh/ansible:1.9-ubuntu14.04
+FROM williamyeh/ansible:ubuntu14.04
 
 RUN apt-get update && \
     apt-get install -y python-pip && \
