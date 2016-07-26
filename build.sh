@@ -1,1 +1,1 @@
-docker build -t euranova/ansible-lint:1.3 -t euranova/ansible-lint:latest .
+docker build -t euranova/ansible-lint:1.4 -t euranova/ansible-lint:latest .
